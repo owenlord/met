@@ -1,11 +1,11 @@
 @font-face{
   font-family:FSEmericWeb-Regular;
-  src:url('https://www.metoffice.gov.uk/webfiles/1518105014136/fonts/FSEmericWeb-Regular.eot');
+  src:url('https://www.metoffice.gov.uk/webfiles/1518105014136/fonts/FSEmericWeb-Regular.eot'),
   src:url('https://www.metoffice.gov.uk/webfiles/1518105014136/fonts/FSEmericWeb-Regular.woff') format('woff')
 }
 
   @font-face{
     font-family:FSEmericWeb-Light;
-    src:url('https://www.metoffice.gov.uk/webfiles/1518105014136/fonts/FSEmericWeb-Light.eot');
+    src:url('https://www.metoffice.gov.uk/webfiles/1518105014136/fonts/FSEmericWeb-Light.eot'),
     src:url('https://www.metoffice.gov.uk/webfiles/1518105014136/fonts/FSEmericWeb-Light.woff') format('woff')
   }
